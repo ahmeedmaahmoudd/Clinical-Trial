@@ -4,9 +4,6 @@ There is a hospital that is called the «initiator»: who has the research idea 
 There are hospitals that are called the «collaborators»: who participate in the clinical trial by running the experiment defined by the initiator using their data
 There is one «ethical committee» internal to the «initiator»
 
-![image](https://github.com/user-attachments/assets/9bccda4e-ff20-438c-a37e-0dab36ce0912)
-
-
 ## Members:
 * member A (Ahmed, Abdelhamid, 11052203) 
 * member B (Amr Ahmed Yehia Elsaid, Elmasry, 11036293)
