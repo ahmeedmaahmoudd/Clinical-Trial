@@ -5,7 +5,7 @@ There are hospitals that are called the «collaborators»: who participate in th
 There is one «ethical committee» internal to the «initiator»
 
 ## Members:
-* member A (Ahmed, Abdelhamid, 11052203) 
+* member A (Ahmed Mahmoud Abdelmoneim, Abdelhamid, 11052203) 
 * member B (Amr Ahmed Yehia Elsaid, Elmasry, 11036293)
 
 ## Choreographed process
