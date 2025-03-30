@@ -1,12 +1,8 @@
 # Clinical Trial
-We want to model a process that guides the definition of a clinical trial
 There are three types of actors:
 There is a hospital that is called the «initiator»: who has the research idea and set the trial protocol
 There are hospitals that are called the «collaborators»: who participate in the clinical trial by running the experiment defined by the initiator using their data
-There is one «ethical committee»: they are in charge of approving the trial protocol
-Groups of three members must consider one ethical committee for each of the hospitals («initiator» and «collaborators»)
-Groups of two members must consider just one ethical committee internal to the «initiator»
-Individuals must consider a single ethical committee, external from any other actors
+There is one «ethical committee» internal to the «initiator»
 
 ![image](https://github.com/user-attachments/assets/9bccda4e-ff20-438c-a37e-0dab36ce0912)
 
