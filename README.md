@@ -25,7 +25,7 @@ The process begins with the Initiator Hospital defining the clinical trial proto
 
 ## Collaboration Diagram
 
-![image](https://github.com/user-attachments/assets/85a9053b-8d13-4b47-922c-ae78de56dd49)
+![image](https://github.com/user-attachments/assets/884ca5e1-fa29-4be1-9dca-768113490460)
 
 ## Petri Net
 
