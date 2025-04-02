@@ -18,7 +18,9 @@ Ethical Committee – Reviews the trial protocol and decides whether to approve 
 Collaborator Hospitals – Execute the trial according to the approved protocol and contribute their data for evaluation.
 
 The process begins with the Initiator Hospital defining the clinical trial protocol, which is then submitted to the Ethical Committee for review. If approved, the trial is executed by the Collaborator Hospitals, and data is collected and evaluated. If the protocol is rejected, it must be revised and resubmitted.
-![image](https://github.com/user-attachments/assets/cb19583e-e906-4f2b-ab6b-7dd58cd37c13)
+
+![image](https://github.com/user-attachments/assets/572edd93-d22c-46ae-aa0e-4a4b97489e26)
+
 
 
 ## Collaboration Diagram
